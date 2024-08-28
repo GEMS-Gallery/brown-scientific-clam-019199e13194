@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Internet Computer App</h1>
+      <h1>Retro Internet Computer App</h1>
       <button onClick={handleGreet}>Greet</button>
       {greeting && <p>{greeting}</p>}
     </div>
